@@ -31,12 +31,15 @@ This is a simple web-based To-Do List application that allows users to add, dele
 ├── style.css        # CSS file for styling the application
 └── script.js        # JavaScript file that adds functionality to the application
 ```
-Setup
+## Setup
+
 To use this application, simply download the repository and open index.html in any modern web browser.
 
-Future Enhancements
+## Future Enhancements
+
 Local Storage Integration: Store the tasks in the browser's local storage to persist them across page reloads.
 Edit Task Functionality: Allow users to edit tasks after they've been added.
 Task Prioritization: Implement a feature to prioritize tasks and sort them accordingly.
-Contributing
+## Contributing
+
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements or new features.
